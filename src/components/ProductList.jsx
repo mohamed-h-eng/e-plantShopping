@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+/* Project: e-plantShopping */
 import { useDispatch, useSelector } from 'react-redux';
 import './ProductList.css'
 import CartItem from './CartItem';

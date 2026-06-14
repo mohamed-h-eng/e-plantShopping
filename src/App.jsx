@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+/* Project: e-plantShopping */
 import ProductList from './components/ProductList';
 import './App.css';
 import AboutUs from './components/AboutUs';
